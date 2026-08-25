@@ -3,16 +3,15 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>mythingsapp<title>
+    <title>مسنودع ادويه الوضوح</title>
 
     <style>
       #bg_img {
-        background-image: url("./mythings.PNG");
+        background-image: url("./Clarity Store.jpg");
       }
     </style>
   </head>
   <body id="bg_img">
-
 
 <script type="text/javascript" charset="utf-8">
   (function (g, e, n, es, ys) {
